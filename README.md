@@ -54,5 +54,5 @@ com.pl.index.indexMerge
   
 #运行结果  
 hello	index03.txt-->1	index02.txt-->1	index01.txt-->3  
-jerry	index03.txt-->1	index02.txt-->2	index01.txt-->2  	
+jerry	index03.txt-->1	index02.txt-->2	index01.txt-->2  
 tom	index02.txt-->1	index01.txt-->1  
